@@ -1,0 +1,2 @@
+tp1: main.c tp1.c
+	gcc -std=c99 -Wall -Wextra -o tp1 main.c tp1.c -lm

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527182936 source:c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\trabalho_pratico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+	<math.h>
+
+1525826076 c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\trabalho_pratico1\tp1.h
+
+1525825456 source:c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\trabalho_pratico1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+	<math.h>
+

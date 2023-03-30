@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525830777 source:c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\tp1_heuristica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"List.h"
+
+1525832674 c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\tp1_heuristica\list.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1525832674 source:c:\users\andre werneck\documents\2 período eca\aeds ii\tp1\tp1_heuristica\list.c
+	"List.h"
+
