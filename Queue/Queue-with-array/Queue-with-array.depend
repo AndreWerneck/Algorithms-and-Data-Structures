@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524070300 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1523829981 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue.h
+	<stdbool.h>
+
+1524070551 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_with_array.h"
+
+1524070186 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-array\queue_with_array.h
+	<stdbool.h>
+
+1524070515 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-array\queue_with_array.c
+	<stdlib.h>
+	"queue_with_array.h"
+

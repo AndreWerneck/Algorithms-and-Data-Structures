@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524070858 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-linked-list\main2.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_with_linked_list.h"
+
+1524070416 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-linked-list\queue_with_linked_list.h
+	<stdbool.h>
+
+1524073567 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 5 tad fila\queue-with-linked-list\queue_with_linked_list.c
+	"queue_with_linked_list.h"
+	<stdlib.h>
+

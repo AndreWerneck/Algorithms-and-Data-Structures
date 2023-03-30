@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524603964 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 6 priority queue\priority_queue_with_array\main.c
+	<stdio.h>
+	"priority_queue_with_array.h"
+
+1524103403 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 6 priority queue\priority_queue_with_array\priority_queue_with_array.h
+	<stdbool.h>
+
+1524604274 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 6 priority queue\priority_queue_with_array\priority_queue_with_array.c
+	"priority_queue_with_array.h"
+	<stdlib.h>
+

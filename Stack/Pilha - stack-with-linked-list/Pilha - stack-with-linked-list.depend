@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1523928338 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_linked_list.h"
+
+1523928238 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\stack_with_linked_list.h
+	<stdbool.h>
+
+1523928277 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\stack_with_linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_linked_list.h"
+
+1503624918 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha - stack-with-linked-list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524069628 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha - stack-with-linked-list\stack_with_linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_linked_list.h"
+
+1523928497 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha - stack-with-linked-list\main2.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_linked_list.h"
+
+1523928010 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha - stack-with-linked-list\stack_with_linked_list.h
+	<stdbool.h>
+

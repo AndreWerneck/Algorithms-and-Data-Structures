@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523911200 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha-stack-with-array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_array.h"
+
+1523910701 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha-stack-with-array\stack_with_array.h
+	<stdbool.h>
+
+1523910664 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 4 pilha\pilha-stack-with-array\stack_with_array.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_with_array.h"
+

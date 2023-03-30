@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1524703317 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 3 lista encadeada\iteração\listaencadeada.c
+	"listaEncadeada.h"
+	<stddef.h>
+	<stdio.h>
+
+1524703329 c:\users\andre werneck\documents\2 período eca\aeds ii\lista 3 lista encadeada\iteração\listaencadeada.h
+	<stddef.h>
+
+1524703354 source:c:\users\andre werneck\documents\2 período eca\aeds ii\lista 3 lista encadeada\iteração\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaEncadeada.h"
+
